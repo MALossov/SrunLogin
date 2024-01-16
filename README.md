@@ -22,8 +22,8 @@
 
 ```yaml
 form:
-  domain: netlogin.ynnu.edu.cn
-  username: "191230320xxxxxx"    #学号
+  domain: http://10.253.0.237/
+  username: "202101xxxxxx"    #学号
   password: "xxxxxxx"			 #密码
 
 # 基础认证参数(保持默认就可)
@@ -34,7 +34,7 @@ meta:
   enc: srun_bx1
 settings:
   basic:
-    https: true		# 访问协议
+    https: false		# 访问协议
     skip_cert_verify: false
     timeout: 5
     interfaces: ""
