@@ -1,4 +1,6 @@
-# SrunLogin-云师大版
+# SrunLogin-啤县男子职业技术学校稍改版
+
+> 已在配置文件中稍作修改
 
 [![stars](https://img.shields.io/github/stars/bigbugcc/SrunLogin?style=flat-square)](https://github.com/bigbugcc/SrunLogin/stargazers)[![stars](https://img.shields.io/github/forks/bigbugcc/SrunLogin)](https://github.com/bigbugcc/SrunLogin/network/members)
 
